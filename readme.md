@@ -5,3 +5,6 @@
 
 
 [Palette Colors Generator](https://colorgen.dev)
+
+
+[GlyphSearch](https://glyphsearch.com)
