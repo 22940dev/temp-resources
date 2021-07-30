@@ -47,6 +47,8 @@
 
 [Lightgallerjs](https://www.lightgalleryjs.com)
 
+[Framer Motion](https://www.framer.com/motion/)
+
 -----
 
 [How To Graphql](https://www.howtographql.com)
