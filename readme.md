@@ -11,10 +11,12 @@
 [Front-End Checklist](https://frontendchecklist.io)
 
 [HTML Reference](https://htmlreference.io)
+
 [Marksheet](https://marksheet.io)
 
 [Learn to Code - CSS, HTML](https://learn.shayhowe.com)
 
+[11ty Recipes](https://www.11ty.recipes)
 
 
 [Explore Nuxt Modules](https://modules.nuxtjs.org)
