@@ -43,13 +43,17 @@
 
 [Tiny Helpers](https://tiny-helpers.dev)
 
+------
+
+[Lightgallerjs](https://www.lightgalleryjs.com)
+
 -----
 
 [How To Graphql](https://www.howtographql.com)
 
 [Self Learning Resources Guide](https://resources.nwplus.io)
 
-
+-----
 
 [Vuejs](https://vuejs.org)
 
