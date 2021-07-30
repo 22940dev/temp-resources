@@ -1,5 +1,5 @@
 [Free Web Development Resources](https://markodenic.com/free-web-development-resources/)
-
+[Free Resources](https://bycorsanchez.github.io/resources/)
 
 
 [GoOnlineTools](https://goonlinetools.com)
