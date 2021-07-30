@@ -56,3 +56,5 @@
 
 [Stackoverflow](https://stackoverflow.com)
 https://stackoverflow.com/users/16403316/fu4303?tab=profile
+
+[Threejs Discourse](https://discourse.threejs.org/top?period=weekly)
