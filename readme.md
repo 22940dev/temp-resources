@@ -3,6 +3,9 @@
 [Flexbox Froggy](https://flexboxfroggy.com)
 [CSS Grid Garden](https://cssgridgarden.com)
 
+[Front-End Checklist](https://frontendchecklist.io)
+
+
 [Explore Nuxt Modules](https://modules.nuxtjs.org)
 
 
