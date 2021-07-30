@@ -16,6 +16,10 @@
 
 [Front-End Checklist](https://frontendchecklist.io)
 
+-----
+
+[Javascript Tips](https://www.jstips.co)
+
 [HTML Reference](https://htmlreference.io)
 
 [HTML Head](https://htmlhead.dev)
