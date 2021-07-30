@@ -16,3 +16,7 @@
 
 [GlyphSearch](https://glyphsearch.com)
 [Font CDN](https://thomaspark.co/projects/fontcdn/)
+
+
+
+[Chakra Templates](https://chakra-templates.dev)
