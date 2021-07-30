@@ -2,6 +2,8 @@
 
 [Free Resources](https://bycorsanchez.github.io/resources/)
 
+[Blockchain Resources](https://blockchainedindia.github.io/resources/)
+
 
 [GoOnlineTools](https://goonlinetools.com)
 
