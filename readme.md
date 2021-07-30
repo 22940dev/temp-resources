@@ -5,6 +5,8 @@
 
 [Front-End Checklist](https://frontendchecklist.io)
 
+[HTML Reference](https://htmlreference.io)
+
 
 [Explore Nuxt Modules](https://modules.nuxtjs.org)
 
