@@ -13,6 +13,8 @@
 
 [Palette Colors Generator](https://colorgen.dev)
 
+[Maskable.app](https://maskable.app)
+
 
 [GlyphSearch](https://glyphsearch.com)
 [Font CDN](https://thomaspark.co/projects/fontcdn/)
