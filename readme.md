@@ -49,6 +49,8 @@
 
 [Framer Motion](https://www.framer.com/motion/)
 
+[Pop Motion](https://popmotion.io)
+
 -----
 
 [How To Graphql](https://www.howtographql.com)
