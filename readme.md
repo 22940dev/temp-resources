@@ -4,6 +4,8 @@
 
 [Dev Resources](https://devresourc.es)
 
+[Design Resources](http://designresources.party)
+
 [Blockchain Resources](https://blockchainedindia.github.io/resources/)
 
 
