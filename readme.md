@@ -23,3 +23,6 @@
 
 
 [Tiny Helpers](https://tiny-helpers.dev)
+
+
+[Self Learning Resources Guide](https://resources.nwplus.io)
