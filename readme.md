@@ -18,6 +18,8 @@
 
 [HTML Reference](https://htmlreference.io)
 
+[HTML Head](https://htmlhead.dev)
+
 [Marksheet](https://marksheet.io)
 
 [Learn to Code - CSS, HTML](https://learn.shayhowe.com)
