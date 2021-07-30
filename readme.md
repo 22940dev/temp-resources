@@ -51,6 +51,8 @@
 
 [Pop Motion](https://popmotion.io)
 
+[Puppeteer](https://pptr.dev)
+
 -----
 
 [How To Graphql](https://www.howtographql.com)
