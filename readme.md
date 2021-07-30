@@ -2,6 +2,8 @@
 
 [Free Resources](https://bycorsanchez.github.io/resources/)
 
+[Dev Resources](https://devresourc.es)
+
 [Blockchain Resources](https://blockchainedindia.github.io/resources/)
 
 
