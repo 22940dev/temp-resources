@@ -89,6 +89,8 @@
 
 [Phosophor Icons](https://phosphoricons.com)
 
+[Radix-ui Icons](https://icons.modulz.app)
+
 ------
 
 [How To Graphql](https://www.howtographql.com)
