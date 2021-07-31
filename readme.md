@@ -51,6 +51,10 @@
 
 ------
 
+[Three.js](https://threejs.org)
+
+------
+
 [Lightgallerjs](https://www.lightgalleryjs.com)
 
 [Framer Motion](https://www.framer.com/motion/)
