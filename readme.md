@@ -103,6 +103,8 @@
 
 ------
 
+[Svelte](https://svelte.dev)
+
 [Sapper](https://sapper.svelte.dev)
 
 -------
