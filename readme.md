@@ -77,6 +77,8 @@
 
 ------
 
+[UI Playbook](https://uiplaybook.dev)
+
 [Lightgallerjs](https://www.lightgalleryjs.com)
 
 [Framer Motion](https://www.framer.com/motion/)
