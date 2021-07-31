@@ -87,6 +87,10 @@
 
 -----
 
+[Phosophor Icons](https://phosphoricons.com)
+
+------
+
 [How To Graphql](https://www.howtographql.com)
 
 [Self Learning Resources Guide](https://resources.nwplus.io)
