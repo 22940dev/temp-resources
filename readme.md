@@ -56,7 +56,9 @@
 [GlyphSearch](https://glyphsearch.com)
 [Font CDN](https://thomaspark.co/projects/fontcdn/)
 
+-------
 
+[Chakra UI Components](https://chakra-ui.com)
 
 [Chakra Templates](https://chakra-templates.dev)
 
