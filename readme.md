@@ -92,6 +92,8 @@
 
 -----
 
+[Heroicons](https://heroicons.com)
+
 [Phosophor Icons](https://phosphoricons.com)
 
 [Radix-ui Icons](https://icons.modulz.app)
