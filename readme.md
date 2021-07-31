@@ -71,6 +71,10 @@
 
 -----
 
+[Hasura](https://hasura.io)
+
+-----
+
 [Vuejs](https://vuejs.org)
 
 - [Vuejs Tippy](https://kabbouchi.github.io/vue-tippy/4.0/demo.html)
