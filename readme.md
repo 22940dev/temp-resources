@@ -54,6 +54,7 @@
 
 
 [GlyphSearch](https://glyphsearch.com)
+
 [Font CDN](https://thomaspark.co/projects/fontcdn/)
 
 -------
@@ -78,6 +79,8 @@
 ------
 
 [UI Playbook](https://uiplaybook.dev)
+
+[Stitches.dev](https://stitches.dev)
 
 [Lightgallerjs](https://www.lightgalleryjs.com)
 
