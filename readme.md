@@ -36,6 +36,10 @@
 
 [Palette Colors Generator](https://colorgen.dev)
 
+[Palette of Color Shades](https://lebenleben.github.io/palette/)
+
+-----
+
 [Maskable.app](https://maskable.app)
 
 
