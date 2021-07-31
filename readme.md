@@ -14,6 +14,12 @@
 [Flexbox Froggy](https://flexboxfroggy.com)
 [CSS Grid Garden](https://cssgridgarden.com)
 
+------
+
+[Kanye West Quotes API](https://kanye.rest)
+
+------
+
 [Front-End Checklist](https://frontendchecklist.io)
 
 -----
