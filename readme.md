@@ -34,6 +34,8 @@
 
 [Marksheet](https://marksheet.io)
 
+[Curated Cheatsheet List](https://cheatsheets.xyz) 
+
 [Learn to Code - CSS, HTML](https://learn.shayhowe.com)
 
 [11ty Recipes](https://www.11ty.recipes)
