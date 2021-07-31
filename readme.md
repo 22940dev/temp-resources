@@ -103,6 +103,10 @@
 
 ------
 
+[Sapper](https://sapper.svelte.dev)
+
+-------
+
 [Tailwindcss]()
 
 [daisyUI Tailwindcss Components](https://daisyui.com)
